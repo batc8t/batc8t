@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bayethe Hlongwane 👋
 
-<!--
-**batc8t/batc8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 MSc student in Transport Engineering at Nanjing University of Aeronautics and Astronautics
+- 💻 Developer with experience in Python, C#, Unity, and algorithmic trading
+- 🚁 Currently researching UAV simulation platforms using Unreal Engine
+- 🌱 Learning computer vision, machine learning, and XR development
 
-Here are some ideas to get you started:
+## Skills
+- Languages: Python, C#, JavaScript, C++
+- Technologies: Unity3D, Unreal Engine, React/Next.js
+- Domains: Algorithmic Trading, XR Development, Simulation, Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- UAV Inspection Simulation in Unreal Engine
+- XR Prototypes (XRBootcamp)
+- Machine Learning and Computer Vision studies
+
+## Connect with me
+- LinkedIn: [Bayethe Hlongwane](https://www.linkedin.com/in/bayethe-hlongwane/)
+- Email: bayethehlongwane@gmail.com
